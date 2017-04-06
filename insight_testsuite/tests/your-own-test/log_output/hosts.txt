@@ -1,0 +1,10 @@
+link097.txdirect.net,5
+netport-27.iu.net,5
+199.72.81.55,4
+dave.dev1.ihub.com,4
+remote27.compusmart.ab.ca,2
+ix-or10-06.ix.netcom.com,2
+gater4.sematech.org,2
+gater3.sematech.org,2
+215.119.86.24,1
+214.262.94.47,1

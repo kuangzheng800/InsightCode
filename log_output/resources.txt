@@ -1,0 +1,10 @@
+GET/shuttle/missions/sts-71/movies/sts-71-launch.mpgHTTP/1.0
+GET/HTTP/1.0
+GET/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpgHTTP/1.0
+GET/shuttle/missions/sts-53/movies/sts-53-launch.mpgHTTP/1.0
+GET/shuttle/countdown/count70.gifHTTP/1.0
+GET/shuttle/technology/sts-newsref/stsref-toc.htmlHTTP/1.0
+GET/shuttle/countdown/video/livevideo2.gifHTTP/1.0
+GET/shuttle/countdown/count.gifHTTP/1.0
+GET/shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg
+GET/shuttle/countdown/video/livevideo.gifHTTP/1.0
