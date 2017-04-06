@@ -8,7 +8,7 @@ import datetime
 print('Please confirm the input data file is saved at /log_input as log.txt, and is coded with UTF-8\n')
 #bsdir = '/Volumes/Expansion/Python/fansite-analytics-challenge/'
 bsdir = '../'
-file = codecs.open(bsdir+'log_input/your-own-log.txt','r','utf-8')
+file = codecs.open(bsdir+'log_input/log.txt','r','utf-8')
 df= DataFrame(columns=('address','time','item','signal','size'))
 all_line,address,time,item,signal,size,timestruct= list(),list(),list(),list(),list(),list(),list()
 print('Reading data...\n')
